@@ -1,0 +1,481 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "(77) [S] John: Play haunting piano refrain.",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(82) [S] ==>",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(88) [S] John: Enter.",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(90) [S] STRIFE!",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(110) [S] John: Check Pesterchum.",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert| AND |Dave Strider| AND |Jade Harley|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(137) [S] ==>",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Rose Lalonde|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(186) [S] ==>",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |Nannasprite|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(222) [S] Rose: Play a haunting refrain on the violin.",
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(246) [S] John: Take bite of apple.",
+      "victory": false,
+      "category": [
+        "Act 1"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert| AND |Nannasprite| AND |Mom Lalonde| AND |Rose Lalonde|",
+      "region": "Act 1"
+    },
+    {
+      "name": "(250) [S] ==>",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert| AND |Nannasprite|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(253) [S] YOU THERE. BOY.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert| AND |Nannasprite| AND |Rose Lalonde|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(307) [S] ==>",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dad Egbert| AND |Nannasprite| AND |Rose Lalonde| AND |Dave Strider| AND |Jade Harley|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(338) [S] ==>",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde| AND |Spades Slick| AND |Diamonds Droog| AND |Clubs Deuce| AND |Hearts Boxcars|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(388) [S] Rose: Youth roll right out the front door.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Mom Lalonde|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(393) [S] ==>==>==>!!!!!!!!!",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Mom Lalonde| AND |Andrew Hussie| AND |John Egbert|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(397) [S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Mom Lalonde| AND |Andrew Hussie| AND |John Egbert|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(400) [S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON!",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Mom Lalonde| AND |Andrew Hussie| AND |John Egbert|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(418) [S] WHAT THIS IS SO OUTRAGEOUS",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Mom Lalonde| AND |Andrew Hussie| AND |John Egbert| AND |Nannasprite|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(422) [S] GO ON. ==>",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Nannasprite|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(444) [S] Dave: Retrieve dead bird.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Wayward Vagabond| AND |Andrew Hussie| AND |John Egbert| AND |Nannasprite| AND |Dave Strider| AND |Jade Harley|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(476) [S] ==>",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Dave Strider| AND |Andrew Hussie| AND |John Egbert|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(644) [S] John: Sleep.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Andrew Hussie| AND |John Egbert|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(651) [S] John: Wake up.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Rose Lalonde| AND |Andrew Hussie| AND |John Egbert| AND |Jade Harley|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(665) [S] Dave: Ascend to the highest point of the building.",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Dave Strider| AND |Bro Strider| AND |Jade Harley| AND |Wayward Vagabond|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(721) [S] WV: Lead your men to victory!",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |Wayward Vagabond|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(755) [S] WV: Hasten to the exit post-haste!",
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |Wayward Vagabond|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(757) [S] WV: Ascend.",
+      "victory": false,
+      "category": [
+        "Act 2"
+      ],
+      "requires": "|Andrew Hussie| AND |Wayward Vagabond| AND |Peregrine Mendicant| AND |Rose Lalonde| AND |Mom Lalonde| AND |Dad Egbert| AND |Dave Strider| AND |Bro Strider|",
+      "region": "Act 2"
+    },
+    {
+      "name": "(769) [S] Jade: Play a silly flute refrain.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Nannasprite| AND |Jade Harley| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(822) [S] Jade: Play a hauntingly relaxing bassline.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(830) [S] Jade: Open FreshJamz!",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider|"
+    },
+    {
+      "name": "(833) [S] MIDNIGHT CREW: ACT 1031",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Spades Slick| AND |Diamonds Droog| AND |Clubs Deuce| AND |Hearts Boxcars| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Crowbar| AND |Biscuits| AND |Cans|"
+    },
+    {
+      "name": "(836) [S] Dave: STRIFE.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Spades Slick| AND |Diamonds Droog| AND |Clubs Deuce| AND |Hearts Boxcars| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Crowbar| AND |Biscuits| AND |Cans| AND |Bro Strider|"
+    },
+    {
+      "name": "(843) [S] Jade: Descend.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Spades Slick| AND |Diamonds Droog| AND |Clubs Deuce| AND |Hearts Boxcars| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Crowbar| AND |Biscuits| AND |Cans| AND |Bro Strider| AND |Rose Lalonde| AND |John Egbert|"
+    },
+    {
+      "name": "(871) [S] Dave: Abscond.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Karkat Vantas| AND |Rose Lalonde| AND |Bro Strider|"
+    },
+    {
+      "name": "(879) [S] Rose: Ascend.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Karkat Vantas| AND |Rose Lalonde| AND |Bro Strider| AND |John Egbert| AND |Nannasprite|"
+    },
+    {
+      "name": "(918) [S] Strife!!!",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Peregrine Mendicant| AND |Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jade Harley|"
+    },
+    {
+      "name": "(938) [S] Rose: Fast forward to now.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Peregrine Mendicant| AND |Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jade Harley| AND |Mom Lalonde|"
+    },
+    {
+      "name": "(EXTRA) [S] Ride.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Peregrine Mendicant| AND |Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jade Harley| AND |Mom Lalonde|"
+    },
+    {
+      "name": "(948) [S] John: Examine your dad's room.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Bequerel|"
+    },
+    {
+      "name": "(979) [S] John: Mental breakdown.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(980) [S] Jade: Retrieve package.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Bequerel|"
+    },
+    {
+      "name": "(1026) [S] Jade: Dream up extra arms and play advanced bass solo.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Wayward Vagabond| AND |Aimless Renegade| AND |Rose Lalonde| AND |Bequerel|"
+    },
+    {
+      "name": "(1070) [S] Dave: Strife!",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Bro Strider|"
+    },
+    {
+      "name": "(1073) [S] Jade: Pester John.",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Dave Strider| AND |Bro Strider| AND |Bequerel|"
+    },
+    {
+      "name": "(1149) [S] Enter.",
+      "victory": false,
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Grandpa Harley| AND |John Egbert| AND |Jade Harley| AND |Andrew Hussie| AND |Dad Egbert| AND |Jack Noir| AND |Dave Strider| AND |Rose Lalonde| AND |Jaspersprite| AND |Nannasprite| AND |Bequerel|"
+    },
+    {
+      "name": "(1267) [S][I] ==>",
+      "region": "Act 3",
+      "category": [
+        "Act 3"
+      ],
+      "requires": "|Spades Slick| AND |Clubs Deuce| AND |Diamonds Droog| AND |Hearts Boxcars| AND |Snowman| AND |Crowbar| AND |Sawbuck|"
+    },
+    {
+      "name": "(1358) [S] ACT 4 ==>",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|John Egbert| AND |Andrew Hussie| AND |Nannasprite|"
+    },
+    {
+      "name": "(1407) [S] ==>",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Rose Lalonde|"
+    },
+    {
+      "name": "(1641) [S] Dave: Accelerate.",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|John Egbert| AND |Viceroy Bubbles Von Salamancer| AND |Andrew Hussie| AND |Karkat Vantas| AND |Terezi Pyrope| AND |Wayward Vagabond| AND |Aimless Renegade| AND |Wandering Questant| AND |Peregrine Mendicant| AND |Jaspersprite| AND |Rose Lalonde| AND |Jade Harley| AND |Dave Strider| AND |Davesprite| AND |Calsprite|"
+    },
+    {
+      "name": "(1656) [S] ==>",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|John Egbert| AND |Viceroy Bubbles Von Salamancer| AND |Andrew Hussie| AND |Karkat Vantas| AND |Terezi Pyrope| AND |Wayward Vagabond| AND |Aimless Renegade| AND |Wandering Questant| AND |Peregrine Mendicant| AND |Jaspersprite| AND |Rose Lalonde| AND |Jade Harley| AND |Dave Strider| AND |Davesprite| AND |Calsprite|"
+    },
+    {
+      "name": "(1668) [S] Jack: Ascend.",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Jack Noir| AND |Black Queen| AND |Rose Lalonde| AND |Mom Lalonde| AND |Dad Egbert| AND |Bro Strider| AND |John Egbert| AND |Davesprite| AND |Jade Harley| AND |Bequerel|"
+    },
+    {
+      "name": "(1720) [S] Rose and Dave: Shut up and jam.",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Rose Lalonde| AND |Dave Strider| AND |John Egbert| AND |Andrew Hussie| AND |Kanaya Maryam| AND |Sollux Captor| AND |Karkat Vantas|"
+    },
+    {
+      "name": "(1801) [S] WV?: Rise up.",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Wayward Vagabond| AND |Black King| AND |Jack Noir| AND |Peregrine Mendicant| AND |White King| AND |Hearts Boxcars|"
+    },
+    {
+      "name": "(1931) [S] John: Reunite with your loving wife and daughter.",
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Aimless Renegade| AND |Andrew Hussie| AND |Nannasprite| AND |Grandpa Harley| AND |Diamonds Droog| AND |John Egbert| AND |Rose Lalonde| AND |Jade Harley| AND |Karkat Vantas| AND (|Roxy Lalonde| OR |Mom Lalonde|) AND |Viceroy Bubbles Von Salamancer| AND |Terezi Pyrope| AND |Jack Noir|"
+    },
+    {
+      "name": "(1940) [S] Descend.",
+      "victory": true,
+      "region": "Act 4",
+      "category": [
+        "Act 4"
+      ],
+      "requires": "|Bro Strider| AND |Dad Egbert| AND |Wayward Vagabond| AND |Clubs Deuce| AND |Dave Strider| AND |Mom Lalonde| AND |Jack Noir| AND |John Egbert| AND |Diamonds Droog| AND |Aimless Renegade| AND |Jade Harley| AND |Rose Lalonde| AND |Wandering Questant| AND |Ms Paint| AND (|Jane Crocker| OR |Nannasprite|) AND (|Jake English| OR |Grandpa Harley|) AND |Bequerel|"
+    },
+    {
+      "name": "(2578) [S] Make her pay.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Dragonsprite| AND |Spades Slick|"
+    },
+    {
+      "name": "(2626) [S] ACT 5 ACT 2 ==>",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|John Egbert| AND |Karkat Vantas| AND |Dad Egbert|"
+    },
+    {
+      "name": "(2787) [S] Vriska: Watch street tough maverick with nothing to lose",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|John Egbert| AND |Dave Strider| AND |Gamzee Makara| AND |Andrew Hussie| AND |Terezi Pyrope| AND |Sollux Captor| AND |Feferi Piexes| AND |Vriska Serket| AND |Bro Strider|"
+    },
+    {
+      "name": "(2792) [S] Past Karkat: Wake up.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Andrew Hussie|"
+    }
+  ]
+}

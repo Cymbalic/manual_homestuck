@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Act 1": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Act 2": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Act 3": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Act 4": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Act 5": {
+    "connects_to": [],
+    "requires": ""
+  }
+}

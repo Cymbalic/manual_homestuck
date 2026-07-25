@@ -1,0 +1,477 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "John Egbert",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Andrew Hussie",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dave Strider",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rose Lalonde",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dad Egbert",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jade Harley",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Nannasprite",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mom Lalonde",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spades Slick",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Diamonds Droog",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Clubs Deuce",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hearts Boxcars",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wayward Vagabond",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Peregrine Mendicant",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bro Strider",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Itchy",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Doze",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trace",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Clover",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crowbar",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Biscuits",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cans",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Karkat Vantas",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aimless Renegade",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grandpa Harley",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jaspersprite",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jack Noir",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Snowman",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sawbuck",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Die",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Fin",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Stitch",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Matchsticks",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Quarters",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Viceroy Bubbles Von Salamancer",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Terezi Pyrope",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wandering Questant",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Davesprite",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Calsprite",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Black Queen",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kanaya Maryam",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sollux Captor",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Black King",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "White King",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Roxy Lalonde",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jane Crocker",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jake English",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dirk Strider",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ms Paint",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bequerel",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aradia Megido",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Nepeta Leijon",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vriska Serket",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equius Zahhak",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gamzee Makara",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Eridan Ampora",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Feferi Piexes",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragonsprite",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tavros Nitram",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    }
+  ]
+}

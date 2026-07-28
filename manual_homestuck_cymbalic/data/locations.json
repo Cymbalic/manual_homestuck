@@ -438,7 +438,7 @@
     },
     {
       "name": "(1940) [S] Descend.",
-      "victory": true,
+      "victory": false,
       "region": "Act 4",
       "category": [
         "Act 4"
@@ -476,6 +476,183 @@
         "Act 5"
       ],
       "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(2848) [S] Jade: Wake up.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Davesprite| AND |Dave Strider| AND |Jack Noir| AND |Jade Harley| AND |Feferi Piexes|"
+    },
+    {
+      "name": "(2927) [S] Jade: Enter.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Bequerel| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Bro Strider|"
+    },
+    {
+      "name": "(2988) [S] ==>",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Jade Harley| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde| AND |Andrew Hussie| AND |Vriska Serket|"
+    },
+    {
+      "name": "(3001) [S] Jade: STRIFE!!!!!!!!!!!!",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Jade Harley| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde| AND |Andrew Hussie| AND |Vriska Serket| AND |Viceroy Bubbles Von Salamancer| AND |Feferi Piexes| AND |Bequerel|"
+    },
+    {
+      "name": "(3079) [S] John: Enter village.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Vriska Serket| AND |John Egbert|"
+    },
+    {
+      "name": "(3087) [S] JOHN. RISE UP.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Vriska Serket| AND |John Egbert| AND |Jack Noir| AND |Wayward Vagabond| AND |Jade Harley| AND |Dave Strider| AND |Rose Lalonde|"
+    },
+    {
+      "name": "(3297) [S] Wake.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Vriska Serket| AND |Wayward Vagabond| AND |Feferi Piexes| AND |Jack Noir| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Aradia Megido| AND |Equius Zahhak|"
+    },
+    {
+      "name": "(3438) [S] Equius: Seek the highb100d.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Equius Zahhak| AND |Nepeta Leijon| AND |Andrew Hussie| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3679) [S] All: Behold glory of Zillyhoo.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|John Egbert| AND |Jake English| AND |Wayward Vagabond| AND |Andrew Hussie| AND |Clubs Deuce| AND |Karkat Vantas| AND |Gamzee Makara|"
+    },
+    {
+      "region": "Act 5",
+      "name": "(3695) [S] Seer: Descend.",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir|"
+    },
+    {
+      "name": "(3696) [S] ==>",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir|"
+    },
+    {
+      "name": "(3717) [S] Terezi: Proceed.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir| AND |Dave Strider| AND |Terezi Pyrope| AND |Aimless Renegade|"
+    },
+    {
+      "region": "Act 5",
+      "name": "(3718) [S] Terezi: Read note.",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir| AND |Dave Strider| AND |Terezi Pyrope| AND |Aimless Renegade| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3725) [S] Terezi: Play records.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir| AND |Dave Strider| AND |Terezi Pyrope| AND |Aimless Renegade| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3730) [S] Terezi: Play tiny record.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jack Noir| AND |Dave Strider| AND |Terezi Pyrope| AND |Aimless Renegade| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3744) [S] Seer: Ascend.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Terezi Pyrope| AND |Vriska Serket| AND |Mindfang| AND |Redglare|"
+    },
+    {
+      "name": "(3760) [S] Flip.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Terezi Pyrope| AND |Vriska Serket| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3851) [S][o] Tick. Tock.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Doc Scratch| AND |Jack Noir| AND |Vriska Serket| AND |Matchsticks| AND |Clover| AND |Spades Slick| AND |Terezi Pyrope| AND |Quarters| AND |Karkat Vantas| AND |Snowman| AND |Kanaya Maryam| AND |Sollux Captor| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(3860) [S][o] Tick. Tock. Tick...",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Jade Harley| AND |Dave Strider| AND |Spades Slick|"
+    },
+    {
+      "name": "(4085) [S] Attempt rare and highly dangerous 5x SHOWDOWN COMBO.",
+      "region": "Act 5",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Lord English| AND |Andrew Hussie| AND |Gamzee Makara| AND |Kanaya Maryam| AND |Sollux Captor| AND |Karkat Vantas| AND |Terezi Pyrope|"
+    },
+    {
+      "name": "(4109) [S] Cascade.",
+      "region": "Act 5",
+      "victory": true,
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Rose Lalonde| AND |Dave Strider| AND |Peregrine Mendicant| AND |Aimless Renegade| AND |Wayward Vagabond| AND |Wandering Questant| AND |White King| AND |Snowman| AND |Spades Slick|"
+    },
+    {
+      "region": "Act 5",
+      "name": "(4111) [S] Begin intermission 2.",
+      "category": [
+        "Act 5"
+      ],
+      "requires": "|Lord English|"
     }
   ]
 }

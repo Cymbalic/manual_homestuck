@@ -263,7 +263,7 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -271,7 +271,7 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -472,6 +472,94 @@
         "Main Character"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lord English",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Doc Scratch",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mindfang",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Redglare",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ψiioniic",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Handmaid",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Condesce",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "E%ecutor",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Disciple",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Dolorosa",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Signless",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
     }
   ]
 }

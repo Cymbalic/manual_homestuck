@@ -300,7 +300,7 @@
       "requires": "|Peregrine Mendicant| AND |Andrew Hussie| AND |Rose Lalonde| AND |John Egbert| AND |Jade Harley| AND |Mom Lalonde|"
     },
     {
-      "name": "(EXTRA) [S] Ride.",
+      "name": "(938) [S] Ride.",
       "region": "Act 3",
       "category": [
         "Act 3"
@@ -451,7 +451,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Dragonsprite| AND |Spades Slick|"
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |Dragonsprite| AND |Spades Slick|"
     },
     {
       "name": "(2626) [S] ACT 5 ACT 2 ==>",
@@ -467,7 +467,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|John Egbert| AND |Dave Strider| AND |Gamzee Makara| AND |Andrew Hussie| AND |Terezi Pyrope| AND |Sollux Captor| AND |Feferi Piexes| AND |Vriska Serket| AND |Bro Strider|"
+      "requires": "|John Egbert| AND |Dave Strider| AND |Gamzee Makara| AND |Andrew Hussie| AND |Terezi Pyrope| AND |Sollux Captor| AND |Feferi Peixes| AND |Vriska Serket| AND |Bro Strider|"
     },
     {
       "name": "(2792) [S] Past Karkat: Wake up.",
@@ -475,7 +475,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Andrew Hussie|"
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |Andrew Hussie|"
     },
     {
       "name": "(2848) [S] Jade: Wake up.",
@@ -483,7 +483,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Davesprite| AND |Dave Strider| AND |Jack Noir| AND |Jade Harley| AND |Feferi Piexes|"
+      "requires": "|Davesprite| AND |Dave Strider| AND |Jack Noir| AND |Jade Harley| AND |Feferi Peixes|"
     },
     {
       "name": "(2927) [S] Jade: Enter.",
@@ -491,7 +491,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Bequerel| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Bro Strider|"
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |Bequerel| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Bro Strider|"
     },
     {
       "name": "(2988) [S] ==>",
@@ -507,7 +507,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Jade Harley| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde| AND |Andrew Hussie| AND |Vriska Serket| AND |Viceroy Bubbles Von Salamancer| AND |Feferi Piexes| AND |Bequerel|"
+      "requires": "|Jade Harley| AND |John Egbert| AND |Dave Strider| AND |Rose Lalonde| AND |Andrew Hussie| AND |Vriska Serket| AND |Viceroy Bubbles Von Salamancer| AND |Feferi Peixes| AND |Bequerel|"
     },
     {
       "name": "(3079) [S] John: Enter village.",
@@ -531,7 +531,7 @@
       "category": [
         "Act 5"
       ],
-      "requires": "|Andrew Hussie| AND |Vriska Serket| AND |Wayward Vagabond| AND |Feferi Piexes| AND |Jack Noir| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Aradia Megido| AND |Equius Zahhak|"
+      "requires": "|Andrew Hussie| AND |Vriska Serket| AND |Wayward Vagabond| AND |Feferi Peixes| AND |Jack Noir| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Aradia Megido| AND |Equius Zahhak|"
     },
     {
       "name": "(3438) [S] Equius: Seek the highb100d.",
@@ -640,11 +640,11 @@
     {
       "name": "(4109) [S] Cascade.",
       "region": "Act 5",
-      "victory": true,
+      "victory": false,
       "category": [
         "Act 5"
       ],
-      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Piexes| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Rose Lalonde| AND |Dave Strider| AND |Peregrine Mendicant| AND |Aimless Renegade| AND |Wayward Vagabond| AND |Wandering Questant| AND |White King| AND |Snowman| AND |Spades Slick|"
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Rose Lalonde| AND |Dave Strider| AND |Peregrine Mendicant| AND |Aimless Renegade| AND |Wayward Vagabond| AND |Wandering Questant| AND |White King| AND |Snowman| AND |Spades Slick|"
     },
     {
       "region": "Act 5",
@@ -653,6 +653,655 @@
         "Act 5"
       ],
       "requires": "|Lord English|"
+    },
+    {
+      "name": "(4113) [S] ACT 6",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker|"
+    },
+    {
+      "name": "(4275) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie| AND |Jake English| AND |Dad Crocker| AND |Dirk Strider|"
+    },
+    {
+      "name": "(4282) [S] Jane: Get mail.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Dad Crocker|"
+    },
+    {
+      "name": "(4373) [S][A6I1] Karkat: Mental breakdown.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Rose Lalonde| AND |Dave Strider| AND |Karkat Vantas| AND |Kanaya Maryam| AND |Gamzee Makara| AND |Terezi Pyrope|"
+    },
+    {
+      "name": "(4390) [S] END OF ACT 6 INTERMISSION 1",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Peregrine Mendicant|"
+    },
+    {
+      "name": "(4486) [S] Roxy: Sleepwalk.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Roxy Lalonde| AND |Dirk Strider| AND |Aradia Megido| AND |Equius Zahhak| AND |Dave Strider| AND |Rose Lalonde| AND |Terezi Pyrope|"
+    },
+    {
+      "name": "(4541) [S] RAP-OFF!!!!!!!!!!",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider|"
+    },
+    {
+      "name": "(4572) [S] Prince of Heart: Rise up.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider| AND |Jake English| AND |Condesce| AND |Draconian Dignitary|"
+    },
+    {
+      "name": "(4617) [S] Frigglish: Fast forward to Jaspersprite.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Roxy Lalonde| AND |Andrew Hussie| AND |Rose Lalonde| AND |Jaspersprite| AND |Mom Lalonde| AND |John Egbert| AND |Jade Harley| AND |Viceroy Bubbles Von Salamancer| AND |Nannasprite| AND |Davesprite|"
+    },
+    {
+      "name": "(4617) [S] Ride.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Roxy Lalonde| AND |Andrew Hussie| AND |Rose Lalonde| AND |Jaspersprite| AND |Mom Lalonde| AND |John Egbert| AND |Jade Harley| AND |Viceroy Bubbles Von Salamancer| AND |Nannasprite| AND |Davesprite|"
+    },
+    {
+      "name": "(4665) [S] Jane: Enter.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Dad Crocker| AND |Jake English| AND |Dirk Strider| AND |Roxy Lalonde| AND |GCAT| AND |Condesce|"
+    },
+    {
+      "name": "(4815) [S][A6I2] ???",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Vriska Serket|"
+    },
+    {
+      "name": "(4820) [S] ACT 6 ACT 3",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(4825) [S] Jane: Proceed.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(4827) [S] Jane: Cautiously approach.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(4942) [S] DD: Ascend.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Union Jack| AND |Andrew Hussie| AND |White Queen| AND |Jake English| AND |Aranea Serket| AND |Brain Ghost Dirk| AND |Draconian Dignitary| AND |Condesce|"
+    },
+    {
+      "name": "(4944) [S] DD: Ascend more casually.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Union Jack| AND |Andrew Hussie| AND |Ms Paint| AND |Jake English| AND |Aranea Serket| AND |Dirk Strider| AND |Draconian Dignitary| AND |Condesce| AND |Davesprite| AND |Jade Harley| AND |Equius Zahhak| AND |Aradia Megido| AND |John Egbert| AND |Meenah Peixes| AND |Spades Slick| AND |Peregrine Mendicant| AND |Jack Noir| AND |Gamzee Makara| AND |Jane Crocker| AND |Lord English| AND |Vriska Serket| AND |Roxy Lalonde| AND |GCAT|"
+    },
+    {
+      "name": "(5027) [S] Terry: Fast forward to Liv.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Damara Megido| AND |Rufioh Nitram| AND |Mituna Captor| AND |Kankri Vantas| AND |Meulin Leijon| AND |Porrim Maryam| AND |Latula Pyrope| AND |Aranea Serket| AND |Horuss Zahhak| AND |Cronus Ampora| AND |Meenah Peixes| AND |Jake English| AND |Roxy Lalonde| AND |Rose Lalonde| AND |Dave Strider| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Brain Ghost Dirk| AND |Andrew Hussie| AND |Calliope| AND |Jade Harley| AND |Bequerel| AND |John Egbert| AND |Dad Egbert| AND |Nannasprite| AND |Aimless Renegade| AND |Black Queen| AND |Peregrine Mendicant| AND |Clubs Deuce| AND |Wayward Vagabond| AND |Diamonds Droog| AND |Jack Noir| AND |Mom Lalonde|"
+    },
+    {
+      "name": "(5238) [S] Dirk: Synchronize.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider| AND |Roxy Lalonde| AND |Meenah Peixes|"
+    },
+    {
+      "name": "(5252) [S] Dirk: Unite.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider| AND |Roxy Lalonde| AND |Jane Crocker| AND |Jake English|"
+    },
+    {
+      "name": "(5261) [S] Caliborn: Enter.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dave Strider| AND |Peregrine Mendicant| AND |Jack Noir| AND |Lord English| AND |Caliborn|"
+    },
+    {
+      "name": "(5263) [S] ACT 6 INTERMISSION 3",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Aradia Megido| AND |Karkat Vantas| AND |Dave Strider| AND |Kankri Vantas| AND |Andrew Hussie| AND |Porrim Maryam| AND |Latula Pyrope| AND |Aranea Serket| AND |Rose Lalonde| AND |Meenah Peixes|"
+    },
+    {
+      "name": "(5308) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Damara Megido| AND |Rufioh Nitram| AND |Mituna Captor| AND |Karkat Vantas| AND |Meulin Leijon| AND |Andrew Hussie| AND |Gamzee Makara| AND |Aranea Serket| AND |Cronus Ampora| AND |Meenah Peixes| AND |Kurloz Makara|"
+    },
+    {
+      "name": "(5373) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Jack Noir| AND |Peregrine Mendicant|"
+    },
+    {
+      "name": "(5374) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Jack Noir| AND |Peregrine Mendicant|"
+    },
+    {
+      "name": "(5375) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Jack Noir| AND |Peregrine Mendicant|"
+    },
+    {
+      "name": "(5376) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Jack Noir| AND |Peregrine Mendicant|"
+    },
+    {
+      "name": "(5377) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Jack Noir| AND |Peregrine Mendicant| AND |Tavros Nitram|"
+    },
+    {
+      "name": "(5398) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Damara Megido| AND |Rufioh Nitram| AND |John Egbert| AND |Karkat Vantas| AND |Rose Lalonde| AND |Porrim Maryam| AND |Dave Strider| AND |Vriska Serket| AND |Horuss Zahhak| AND |Tavros Nitram| AND |Meenah Peixes| AND |Andrew Hussie| AND |Terezi Pyrope| AND |Gamzee Makara| AND |Kanaya Maryam|"
+    },
+    {
+      "name": "(5426) [S][A6I3] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Rose Lalonde| AND |Dave Strider| AND |Kanaya Maryam| AND |Gamzee Makara| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(5427) [S][A6I3] MINISTRIFE!!!",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Damara Megido| AND |Rufioh Nitram| AND |Mituna Captor| AND |Kankri Vantas| AND |Meulin Leijon| AND |Porrim Maryam| AND |Latula Pyrope| AND |Aranea Serket| AND |Horuss Zahhak| AND |Kurloz Makara| AND |Cronus Ampora| AND |Meenah Peixes| AND |Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |John Egbert| AND |Andrew Hussie|"
+    },
+    {
+      "name": "(5438) [S] ACT 6 ACT 4",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider| AND |Roxy Lalonde| AND |Jane Crocker| AND |Jake English| AND |Union Jack|"
+    },
+    {
+      "name": "(5440) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Dirk Strider| AND |Roxy Lalonde| AND |Jane Crocker| AND |Jake English| AND |Union Jack|"
+    },
+    {
+      "name": "(5471) [S][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5472) [S][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5473) [S][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5474) [S][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5485) [S][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5494) [S!][A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5495) [!!!] [A6I4] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Caliborn|"
+    },
+    {
+      "name": "(5512) [S] ACT 6 ACT 5",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jake English| AND |Eridan Ampora| AND |Sollux Captor|"
+    },
+    {
+      "name": "(5655) [S] Ride.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Andrew Hussie| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5711) [S] Jane: Engage.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker|"
+    },
+    {
+      "name": "(5712) [S] Jane: Blast off.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker|"
+    },
+    {
+      "name": "(5714) [S] ACT 6 ACT 5 ACT 2",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Caliborn|"
+    },
+    {
+      "name": "(5726) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Caliborn| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor|"
+    },
+    {
+      "name": "(5740) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Caliborn| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll|"
+    },
+    {
+      "name": "(5759) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Caliborn| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider| AND |Dad Crocker| AND |Feferi Peixes| AND |Nepeta Leijon|"
+    },
+    {
+      "name": "(5763) [S] Tricksters: Alchemize.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider|"
+    },
+    {
+      "name": "(5764) [S] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider|"
+    },
+    {
+      "region": "Act 6",
+      "name": "(5776) [S] WHEEEEEEEEEEE!",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider|"
+    },
+    {
+      "region": "Act 6",
+      "name": "(5777) [S] HA HA HA! HE HE HE! HO HO HO!",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Gamzee Makara| AND |Jane Crocker| AND |Jake English| AND |Eridan Ampora| AND |Sollux Captor| AND |Roxy Lalonde| AND |Courtyard Droll| AND |Equius Zahhak| AND |Lil Hal| AND |Dirk Strider|"
+    },
+    {
+      "name": "(5780) [FUCK YOU!] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie| AND |Caliborn|"
+    },
+    {
+      "name": "(5787) [S] Caliborn + Gamzee: Engage.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Andrew Hussie| AND |Caliborn| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(5981) [S][A6I5] BEGIN INTERFISHIN",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Aranea Serket| AND |Gamzee Makara| AND |Meenah Peixes| AND |Meulin Leijon| AND |Feferi Peixes| AND |Tavros Nitram| AND |John Egbert| AND |Vriska Serket| AND |Aradia Megido| AND |Sollux Captor|"
+    },
+    {
+      "name": "(5997) [S][A6I5] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Aranea Serket| AND |Caliborn|"
+    },
+    {
+      "name": "(6066) [S] END OF ACT 6 INTERMISSION 5 INTERMISSION 4",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Caliborn| AND |Wayward Vagabond| AND |Rose Lalonde| AND |Kanaya Maryam| AND |Andrew Hussie| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Fin| AND |Die| AND |Crowbar| AND |Stitch| AND |Sawbuck| AND |Matchsticks| AND |Gamzee Makara| AND |Kurloz Makara|"
+    },
+    {
+      "name": "(6073) [S][A6I5] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Caliborn| AND |Wayward Vagabond| AND |Rose Lalonde| AND |Kanaya Maryam| AND |Andrew Hussie| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Fin| AND |Die| AND |Crowbar| AND |Stitch| AND |Sawbuck| AND |Matchsticks| AND |Gamzee Makara| AND |Kurloz Makara| AND |John Egbert| AND |Meenah Peixes| AND |Aradia Megido| AND |Vriska Serket| AND |Aranea Serket|"
+    },
+    {
+      "name": "(6231) [S][A6I5] ==>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Eridan Ampora| AND |Sollux Captor| AND |Dave Strider| AND |Karkat Vantas| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Wayward Vagabond|"
+    },
+    {
+      "name": "(6243) [S] ACT 6 ACT 6",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Caliborn|"
+    },
+    {
+      "name": "(6278) [S] ACT 6 ACT 6 INTERMISSION 1",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Jane Crocker| AND |Jade Harley| AND |GCAT|"
+    },
+    {
+      "name": "(6400) [S][A6A6I1] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jane Crocker| AND |Kanaya Maryam|"
+    },
+    {
+      "name": "(6552) [S][A6A6I2] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Aranea Serket| AND |Gamzee Makara|"
+    },
+    {
+      "name": "(6652) [S][A6A6I2] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(6901) [S] GAME OVER.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Dave Strider| AND |Jane Crocker| AND |Jake English| AND |Roxy Lalonde| AND |Jack Noir| AND |Peregrine Mendicant| AND |Karkat Vantas| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Gamzee Makara| AND |Aranea Serket| AND |Condesce| AND |Caliborn|"
+    },
+    {
+      "name": "(6943) [S] BYE FOREVER, ALMOST.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Caliborn|"
+    },
+    {
+      "name": "(7086) [S][A6A6I4] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jade Harley| AND |Calliope|"
+    },
+    {
+      "name": "(7098) [S][A6A6I4] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert|"
+    },
+    {
+      "name": "(7100) [S][A6A6I4] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Roxy Lalonde|"
+    },
+    {
+      "name": "(7101) [S][A6A6I4] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Roxy Lalonde|"
+    },
+    {
+      "name": "(7409) [S] ACT 6 ACT 6 ACT 5",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "(7448) [S] MSPA Reader: Mental breakdown.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Dave Strider| AND |Jade Harley| AND |Jane Crocker| AND |Roxy Lalonde| AND |Jake English| AND |Dirk Strider| AND |MSPA Reader| AND |Karkat Vantas| AND |Aradia Megido| AND |Sollux Captor| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Handmaid| AND |Aimless Renegade| AND |Lil Hal| AND |Bro Strider| AND |Davesprite| AND |Andrew Hussie| AND |Jack Noir| AND |Doc Scratch| AND |Lord English| AND |Caliborn| AND |Union Jack|"
+    },
+    {
+      "name": "(7449) [S] BEGIN ACT 6 ACT 6 INTERMISSION 5",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Vriska Serket|"
+    },
+    {
+      "name": "(7635) [S][A6A6I5] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Roxy Lalonde| AND |Calliope| AND |Karkat Vantas| AND |Kanaya Maryam|"
+    },
+    {
+      "name": "(7823) [S][A6A6I5] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Jaspersprite| AND |Nepeta Leijon| AND |Jake English| AND |Tavros Nitram|"
+    },
+    {
+      "name": "(7928) [S][A6A6I5] ====>",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Equius Zahhak| AND |Lil Hal| AND |Nepeta Leijon| AND |Davesprite| AND |Andrew Hussie| AND |Dave Strider| AND |Dirk Strider|"
+    },
+    {
+      "name": "(7959) [S] Terezi: Remem8er",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Dave Strider| AND |Jade Harley| AND |Jane Crocker| AND |Roxy Lalonde| AND |Jake English| AND |Dirk Strider| AND |Karkat Vantas| AND |Vriska Serket| AND |Terezi Pyrope| AND |Eridan Ampora| AND |Feferi Peixes| AND |Sollux Captor| AND |Equius Zahhak| AND |Nepeta Leijon|"
+    },
+    {
+      "name": "(8087) [S] Collide.",
+      "region": "Act 6",
+      "category": [
+        "Act 6"
+      ],
+      "requires": "|Karkat Vantas| AND |Aradia Megido| AND |Tavros Nitram| AND |Sollux Captor| AND |Nepeta Leijon| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Gamzee Makara| AND |Eridan Ampora| AND |Feferi Peixes| AND |Jade Harley| AND |John Egbert| AND |Jack Noir| AND |Davesprite| AND |Rose Lalonde| AND |Dave Strider| AND |Peregrine Mendicant| AND |Condesce| AND |Wayward Vagabond| AND |Union Jack| AND |Jaspersprite| AND |Meenah Peixes| AND |Spades Slick| AND |Jane Crocker| AND |Roxy Lalonde| AND |Jake English| AND |Dirk Strider| AND |Nannasprite| AND |Lord English| AND |Andrew Hussie| AND |Lil Hal| AND |Viceroy Bubbles Von Salamancer| AND |Calliope| AND |Caliborn| AND |Dad Crocker| AND |Alt!Calliope| AND |Itchy| AND |Doze| AND |Trace| AND |Clover| AND |Fin| AND |Die| AND |Crowbar| AND |Ms Paint| AND |Stitch| AND |Sawbuck| AND |Matchsticks| AND |Eggs| AND |Biscuits| AND |Quarters| AND |Cans|"
+    },
+    {
+      "name": "(8127) [S] ACT 7",
+      "victory": true,
+      "region": "Act 7",
+      "category": [
+        "Act 7"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Dave Strider| AND |Jade Harley| AND |Jane Crocker| AND |Roxy Lalonde| AND |Jake English| AND |Dirk Strider| AND |Dad Crocker| AND |Karkat Vantas| AND |Aradia Megido| AND |Alt!Calliope| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Tavros Nitram| AND |Meenah Peixes| AND |Peregrine Mendicant| AND |Wayward Vagabond| AND |Calliope| AND |Lord English| AND |Caliborn| "
+    },
+    {
+      "name": "(8129) [S] ==>",
+      "region": "Act 7",
+      "category": [
+        "Act 7"
+      ],
+      "requires": "|John Egbert| AND |Rose Lalonde| AND |Dave Strider| AND |Jade Harley| AND |Jane Crocker| AND |Roxy Lalonde| AND |Jake English| AND |Dirk Strider| AND |Dad Crocker| AND |Karkat Vantas| AND |Aradia Megido| AND |Alt!Calliope| AND |Kanaya Maryam| AND |Terezi Pyrope| AND |Vriska Serket| AND |Equius Zahhak| AND |Tavros Nitram| AND |Meenah Peixes| AND |Peregrine Mendicant| AND |Wayward Vagabond| AND |Calliope| AND |Lord English| AND |Caliborn| "
+    },
+    {
+      "name": "(8130) Credits",
+      "region": "Act 7",
+      "category": [
+        "Act 7"
+      ],
+      "requires": ""
     }
   ]
 }

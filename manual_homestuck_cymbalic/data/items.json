@@ -239,7 +239,7 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -247,7 +247,7 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -255,7 +255,7 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -451,7 +451,7 @@
     },
     {
       "count": 1,
-      "name": "Feferi Piexes",
+      "name": "Feferi Peixes",
       "category": [
         "Main Character"
       ],
@@ -519,15 +519,15 @@
       "category": [
         "Side Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Condesce",
       "category": [
-        "Side Character"
+        "Main Character"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -560,6 +560,206 @@
         "Side Character"
       ],
       "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Dad Crocker",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Draconian Dignitary",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "GCAT",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Union Jack",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Brain Ghost Dirk",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "White Queen",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aranea Serket",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Meenah Peixes",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Damara Megido",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rufioh Nitram",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mituna Captor",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kankri Vantas",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Meulin Leijon",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Porrim Maryam",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Latula Pyrope",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Horuss Zahhak",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kurloz Makara",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cronus Ampora",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Calliope",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Caliborn",
+      "category": [
+        "Main Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lil Hal",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Courtyard Droll",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "MSPA Reader",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Alt!Calliope",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Eggs",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
     }
   ]
 }

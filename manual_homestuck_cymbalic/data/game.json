@@ -3,12 +3,5 @@
   "game": "Homestuck",
   "creator": "Cymbalic",
   "filler_item_name": "Reading Material",
-  "starting_items": [
-    {
-      "items": [
-        "Andrew Hussie",
-        "John Egbert"
-      ]
-    }
-  ]
+  "starting_items": []
 }

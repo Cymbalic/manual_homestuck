@@ -760,6 +760,68 @@
         "Side Character"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Calamity",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cherub Father",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mierfa Durgas",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Nektan Whelan",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colonel Sassacre",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Bunny",
+      "category": [
+        "Side Character"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guy Fieri",
+      "category": [
+        "Side Character"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Fedorafreak",
+      "category": [],
+      "filler": true
     }
   ]
 }
